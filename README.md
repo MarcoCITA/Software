@@ -1,14 +1,12 @@
 # Software
-A list of useful software for Windows and Android
+A list of useful software for Windows
 
-# Windows
-
-- Games
+#### Games
   - <a href="https://store.steampowered.com/">Steam</a>
   - <a href="https://www.origin.com/">Origin</a>
   - <a href="https://ubisoftconnect.com/">Uplay</a>
 
-- Torrent clients
+#### Torrent clients
 
-- Browser
+#### Browser
   - <a href="https://www.google.com/intl/it_it/chrome/">Chrome</a>
