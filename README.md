@@ -20,4 +20,5 @@ A list of useful software for Windows
   - <a href="https://www.opera.com/">Opera</a>
 
 
+## To help adding new software open an issue 
 # Work in progress
