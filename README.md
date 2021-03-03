@@ -1,4 +1,4 @@
-# Software
+# Software <img src="https://imgur.com/a/rDxV2bb" width="40" height="40">
 A list of useful software for Windows
 
 ### Games
