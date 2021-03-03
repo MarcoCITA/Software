@@ -6,7 +6,7 @@ A list of useful software for Windows
   - <a href="https://www.origin.com/">Origin</a>
   - <a href="https://ubisoftconnect.com/">Uplay</a>
 
-### Torrent clients
+### Torrent clients 🧲
   - <a href="https://www.qbittorrent.org/">qBittorrent</a>
   - <a href="https://deluge-torrent.org/">Deluge</a>
   - <a href="https://www.utorrent.com/">uTorrent</a>
