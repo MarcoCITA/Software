@@ -1,7 +1,7 @@
-# Software <img src="https://imgur.com/a/rDxV2bb">
+# Software 💻
 A list of useful software for Windows
 
-### Games
+### Games 🕹
   - <a href="https://store.steampowered.com/">Steam</a>
   - <a href="https://www.origin.com/">Origin</a>
   - <a href="https://ubisoftconnect.com/">Uplay</a>
@@ -12,7 +12,7 @@ A list of useful software for Windows
   - <a href="https://www.utorrent.com/">uTorrent</a>
   - <a href="http://www.vuze.com/">Vuze</a>
 
-### Browser
+### Browser 🌐
   - <a href="https://brave.com/">Brave</a>
   - <a href="https://www.google.com/intl/it_it/chrome/">Chrome</a>
   - <a href="https://www.microsoft.com/it-it/edge">Edge</a>
